@@ -1,7 +1,7 @@
 === MDR Webmaster Tools ===
 Contributors: mattrude
 Author URI: http://mattrude.com/
-Plugin URI: http://technology.mattrude.com/projects/webmaster-tools-wp-plugin/
+Plugin URI: http://mattrude.com/projects/mdr-webmaster-tools/
 Requires at least: 3.3
 Tested up to: 3.4
 Stable tag: 1.1
