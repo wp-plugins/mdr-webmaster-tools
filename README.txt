@@ -13,7 +13,7 @@ Provides Webmaster site verification scripts for Google, Yahoo, & Bing. Plugin a
 
 == Description ==
 
-MDR Webmaster Tools provides many small necessary functions to WordPress when for managing your site with Google, Yahoo, & Bing.s webmaster tools sites.   The plugin adds the following functions to WordPress
+MDR Webmaster Tools provides many small necessary functions to WordPress when for managing your site with [Google](https://www.google.com/webmasters/tools/), [Yahoo](https://siteexplorer.search.yahoo.com), & [Bing's](http://www.bing.com/toolbox/webmaster) webmaster tools sites.   The plugin adds the following functions to WordPress
 
 * Dynamic Sitemap
 * Ability to modify your rebots.txt file.
