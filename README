@@ -19,26 +19,25 @@ This plugin will create a sitemap for your WordPress site (http://example.com/si
 * Dynamic Sitemap
 * Ability to modify your rebots.txt file.
 * Site verification scripts for Google, Yahoo, & Bing.
-* Google Analytics Tracking Script for registered sites. 
+* Google Analytics Tracking Script for registered sites.
 
 See Tools -> Webmaster Tools
 
 == Installation ==
 As with most WordPress plugins, there is two ways of installing this plugin.
 
-=== Primary Option ===
+= Primary Option =
 
-1. Download the latest version of this plugin from the [download page](https://github.com/mattrude/wp-plugin-webmaster-tools/downloads).
-1. Go to your WordPress Dashboard and login as an Admin.
-1. From your Dashboard go to `Plugins` section on the left hand side and select `upload` from the top.
-1. Find the downloaded plugin in the upload pop up window.
+1. Go to your WordPress Dashboard and login as an Admin
+1. From your Dashboard go to `Plugins` section on the left hand side and select `Add New`.
+1. Search for `MDR Webmaster Tools`
 1. Click the `Install Now` link and follow the instructions.
 
-=== Secondary Option ===
+= Secondary Option =
 
-1. Log onto your web server via SSH or Telnet, and go into the directory that holds your WordPress install.
-1. Move into your plugins directory `cd wp-content/plugins`
-1. Clone the current revision with the command `git clone git://github.com/mattrude/wp-plugin-webmaster-tools.git`
+1. Download the latest version from the download page (http://wordpress.org/extend/plugins/mdr-webmaster-tools/)
+1. Extract the zip file and copy the folder "mdr-webmaster-tools" into the "wp-content/plugins/" directory in your WordPress installation.
+1. Activate the plugin from your Dashboard by going to Plugins -> Installed page.
 
 == Changelog ==
 
